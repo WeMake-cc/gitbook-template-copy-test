@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [test page](test-page.md)
+* [how to start a new book](how-to-start-a-new-book.md)
 
 ## CHAPTER 1
 
