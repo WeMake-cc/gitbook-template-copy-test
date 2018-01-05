@@ -1,6 +1,6 @@
-![](./assets/Screenshot 2018-01-04 15.23.26.jpg){:height="36px" width="36px"}
+![](./assets/Screenshot 2018-01-04 15.23.26.jpg) {:height="36px" width="36px"}
 
-![](assets/Screenshot 2018-01-04 15.25.57.jpg){: height="36px" width="36px"}
+![](assets/Screenshot 2018-01-04 15.25.57.jpg) {: height="36px" width="36px"}
 
 ![](assets/Screenshot 2018-01-04 15.26.30.jpg)
 
