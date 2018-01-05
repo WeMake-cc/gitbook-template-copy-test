@@ -25,13 +25,27 @@ Hola!
 
 ![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
 
+![Logo](http://spark.apache.org/images/spark-logo-trademark.png) | 
+
 ---
+
+
+---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg&size=auto 90%
+
 @title[kjnkj]
 
----?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg
+---
 
-#titolo
+@title[Piecemeal Lists]
+
+- Java
+- Groovy |
+- Kotlin |
+- Scala  |
+- The JVM rocks! |
 
 ---
+
+
 Goodbye
 ---
