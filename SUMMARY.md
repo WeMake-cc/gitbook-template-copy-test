@@ -2,11 +2,10 @@
 
 * [Introduction](README.md)
 * [test page](test-page.md)
-* [how to start a new book](how-to-start-a-new-book.md)
 
 ## CHAPTER 1
 
-* [chapter 1](/chapter-1/README.md)
+* [how to start a new book](how-to-start-a-new-book.md)
 
 ## CHPTER 2
 
