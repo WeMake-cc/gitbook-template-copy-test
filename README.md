@@ -1,6 +1,10 @@
-here from github
 
-here form the editor through local in gitbook folder
+[how to slide ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master)
+
+[demo slide chapter 1 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
+
+[demo slide chapter 2 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
+---
 
 # My Awesome Book
 
@@ -33,8 +37,5 @@ This file file serves as your book's preface, a great place to describe your boo
 * theme layout
   * one pager
   * step by step guide
-  * 
+  *
 * book cover
-
-
-
