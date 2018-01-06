@@ -1,6 +1,6 @@
-theme : moon
+# theme : moon
 
-background : ../assets/rodrigomuller-acdc.jpg
+background : assets/rodrigomuller-acdc.jpg
 
 background-size : cover
 
