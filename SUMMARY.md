@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [test page](test-page.md)
+* [slide](PITCHME.md)
 
 ## CHAPTER 1
 
