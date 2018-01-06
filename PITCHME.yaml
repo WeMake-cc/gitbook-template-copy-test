@@ -1,7 +1,7 @@
 # theme : moon
 
-background : assets/rodrigomuller-acdc.jpg
+# background : assets/rodrigomuller-acdc.jpg
 
-background-size : cover
+# background-size : cover
 
-# logo : assets/logo.png
+ logo : assets/rodrigomuller-acdc.jpg
