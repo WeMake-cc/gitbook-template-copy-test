@@ -4,6 +4,7 @@
 [demo slide chapter 1 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
 
 [demo slide chapter 2 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
+
 ---
 
 # My Awesome Book

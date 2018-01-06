@@ -3,7 +3,7 @@ Hello
 
 ---
 
-![](/assets/Screenshot 2018-01-04 15.23.26.jpg)
+<img src="/assets/Screenshot 2018-01-04 15.23.26.jpg" alt="Drawing" style="width: 200px;"/>
 
 download the template
 
