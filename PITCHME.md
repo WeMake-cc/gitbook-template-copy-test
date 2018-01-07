@@ -11,15 +11,15 @@ download the template
 
 unzip it
 
-![](/assets/Screenshot 2018-01-04 15.25.57.jpg){.imgee}
+![](/assets/Screenshot 2018-01-04 15.25.57.jpg class){:.imgee}
 
-![](/assets/Screenshot 2018-01-04 15.26.30.jpg){#verysmall}
+![](/assets/Screenshot 2018-01-04 15.26.30.jpg){:#verysmall}
 
 ---
 
  move to your git folder
 
-![](/assets/Screenshot 2018-01-04 15.27.59.jpg)
+[]()![](/assets/Screenshot 2018-01-04 15.27.59.jpg)
 
 ---
 
