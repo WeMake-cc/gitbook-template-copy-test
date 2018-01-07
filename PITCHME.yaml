@@ -6,4 +6,4 @@
 
 logo : assets/rodrigomuller-acdc.jpg
 
-theme-override : assets/css/PITCHME.css
+theme-override : styles/PITCHME.css
