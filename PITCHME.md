@@ -13,9 +13,7 @@ download the template
 
 unzip it
 
-<img src="/assets/Screenshot 2018-01-04 15.25.57.jpg" alt="Drawing" />
-
-<img src="/assets/Screenshot 2018-01-04 15.26.30.jpg" alt="Drawing" class="roar"/>
+<img src="/assets/Screenshot 2018-01-04 15.25.57.jpg" alt="Drawing" /><img src="/assets/Screenshot 2018-01-04 15.26.30.jpg" alt="Drawing" class="roar"/>
 
 
 ---
