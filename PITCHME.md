@@ -112,9 +112,6 @@ now your book is published on gitbook
 
 ![](/assets/Screenshot 2018-01-04 15.41.42.jpg)
 
----
-
-
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg&size=auto 90%
 
 @title[kjnkj]
