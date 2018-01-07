@@ -1,42 +1,12 @@
 
 [how to slide ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master)
 
-[demo slide chapter 1 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
+[demo slide chapter 1 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-1)
 
 [demo slide chapter 2 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
 
+[gitbook](https://wemakecc.gitbooks.io/gitbook-template-copy-test/content/)
+
+[testpage](/test-page.md)
+
 ---
-
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-* directory structure
-  * how to create chapters
-  * multi-lang?
-* summary
-  * how to create the TOC with sections
-  * TOC page numbers? \([remove page numbers](https://github.com/GitbookIO/gitbook/issues/1223#issuecomment-213457068)\)
-* book.json
-  * general settings
-  * pdf options
-  * plug-ins
-* glossary
-* layout elements
-  * titles
-  * links \(with footnotes\)
-  * text regular, strong, italic, underline
-  * code block
-  * quote block
-  * highlighted section
-  * footnotes
-  * BOM table
-  * pictures
-    * positioning?
-* video
-* embeds?
-* theme layout
-  * one pager
-  * step by step guide
-  *
-* book cover
