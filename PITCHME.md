@@ -1,6 +1,10 @@
 
 Hello
 
++++
+
+Hola!
+
 ---
 
 <!-- <img src="" alt="Drawing" style="width: 200px;" class="roar"/> -->
@@ -55,42 +59,42 @@ click on publish your repo
 
 ---
 
-#### your repo is now published
+your repo is now published
 
 ![](/assets/Screenshot 2018-01-04 15.33.02.jpg)
 
 
 ---
 
- open the gitbook editor
+open the gitbook editor
 
 ![](/assets/Screenshot 2018-01-04 15.32.25.jpg)
 
 
 ---
 
- in the menu select "import"
+in the menu select import
 
 ![](/assets/Screenshot 2018-01-04 15.33.23.jpg)
 
 
 ---
 
- now you can edit the book using the editor
+now you can edit the book using the editor
 
 ![](/assets/Screenshot 2018-01-04 15.35.19.jpg)
 
 
 ---
 
- if you want to upload it on gitbook go to gitbook.com and click on +New
+if you want to upload it on gitbook go to gitbook.com and click on +New
 
 ![](/assets/Screenshot 2018-01-04 15.36.12.jpg)
 
 
 ---
 
- select Github from the Lists
+select Github from the Lists
 
 ![](/assets/Screenshot 2018-01-04 15.36.24.jpg)
 
@@ -104,6 +108,25 @@ Select your repo
 
 ---
 
- now your book is published on gitbook
+now your book is published on gitbook
 
 ![](/assets/Screenshot 2018-01-04 15.41.42.jpg)
+
+---
+
+
+---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg&size=auto 90%
+
+@title[kjnkj]
+
+---
+
+@title[Piecemeal Lists]
+
+- Java
+- Groovy |
+- Kotlin |
+- Scala  |
+- The JVM rocks! |
+
+---

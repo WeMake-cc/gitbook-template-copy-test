@@ -37,7 +37,7 @@
 
 ![](/assets/Screenshot 2018-01-04 15.28.34.jpg)
 
-# click on "create repo"
+# click on create repo
 
 ![](/assets/Screenshot 2018-01-04 15.28.55.jpg)
 
@@ -57,7 +57,7 @@
 
 ![](/assets/Screenshot 2018-01-04 15.32.25.jpg)
 
-# in the menu select "import"
+# in the menu select import
 
 ![](/assets/Screenshot 2018-01-04 15.33.23.jpg)
 
