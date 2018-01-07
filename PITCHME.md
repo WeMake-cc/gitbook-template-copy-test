@@ -11,20 +11,20 @@ download the template
 
 unzip it
 
-![](/assets/Screenshot 2018-01-04 15.25.57.jpg){.pa}
+![](/assets/Screenshot 2018-01-04 15.25.57.jpg){:.pa}
 
 ![](/assets/Screenshot 2018-01-04 15.26.30.jpg)
 
 ---
 
- move to your git folder
+move to your git folder
 
 ![](/assets/Screenshot 2018-01-04 15.27.59.jpg)
 
 ---
 
 
- open github client and add local repo
+open github client and add local repo
 
 ![](/assets/Screenshot 2018-01-04 15.28.34.jpg)
 
