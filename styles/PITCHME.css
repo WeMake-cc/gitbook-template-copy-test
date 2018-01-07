@@ -1,10 +1,10 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
-  max-height: 5%;
+  max-height: 200px;
 }
 
-.pa {
+.classname {
   border: 10;
   box-shadow: none;
   width: 100px;
