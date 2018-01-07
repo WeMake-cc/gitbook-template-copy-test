@@ -1,13 +1,6 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
-  max-height: 700px;
+  max-height: 500px;
+  margin: 0px 0px;
 }
-
-.classname {
-  border: 10;
-  box-shadow: none;
-  width: 100px;
-}
-
-/* ![pic][logo] */
