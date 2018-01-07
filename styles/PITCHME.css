@@ -1,4 +1,13 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
+  width: 200px;
 }
+
+.reveal section classname {
+  border: 0;
+  box-shadow: none;
+  width: 200px;
+}
+
+/* ![pic][logo]{.classname} */
