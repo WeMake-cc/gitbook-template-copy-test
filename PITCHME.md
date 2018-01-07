@@ -11,9 +11,9 @@ download the template
 
 unzip it
 
-![](/assets/Screenshot 2018-01-04 15.25.57.jpg){.classname}
+![](/assets/Screenshot 2018-01-04 15.25.57.jpg){.ee}
 
-![](/assets/Screenshot 2018-01-04 15.26.30.jpg){.classname}
+![](/assets/Screenshot 2018-01-04 15.26.30.jpg){#verysmall}
 
 ---
 

@@ -1,13 +1,18 @@
-.reveal section img {
+.reveal img {
   border: 0;
   box-shadow: none;
   width: 200px;
 }
 
-.reveal section classname {
+.img {
   border: 0;
   box-shadow: none;
-  width: 200px;
+  width: 10px;
 }
+
+#verysmall {
+  border: 0;
+  box-shadow: none;
+  width: 1px;
 
 /* ![pic][logo]{.classname} */
