@@ -11,9 +11,9 @@ download the template
 
 unzip it
 
-![](/assets/Screenshot 2018-01-04 15.25.57.jpg class){:.imgee}
+![](/assets/Screenshot 2018-01-04 15.25.57.jpg class){:.pa}
 
-![](/assets/Screenshot 2018-01-04 15.26.30.jpg){:#verysmall}
+![](/assets/Screenshot 2018-01-04 15.26.30.jpg)
 
 ---
 
