@@ -116,6 +116,11 @@ now your book is published on gitbook
 
 @title[kjnkj]
 
+---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/127.jpg
+
+ciao
+
+
 ---
 
 @title[Piecemeal Lists]
