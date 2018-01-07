@@ -13,9 +13,9 @@ download the template
 
 unzip it
 
-<img src="/assets/Screenshot 2018-01-04 15.25.57.jpg" alt="Drawing" style="width: 200px;" class="roar"/>
+<img src="/assets/Screenshot 2018-01-04 15.25.57.jpg" alt="Drawing" style="boarder: 20px;" class="roar"/>
 
-<img src="/assets/Screenshot 2018-01-04 15.26.30.jpg" alt="Drawing" style="width: 200px;" class="roar"/>
+<img src="/assets/Screenshot 2018-01-04 15.26.30.jpg" alt="Drawing" class="roar"/>
 
 
 ---
@@ -27,13 +27,13 @@ move to your git folder
 ---
 
 
-## open github client and add local repo
+open github client and add local repo
 
 ![](/assets/Screenshot 2018-01-04 15.28.34.jpg)
 
 ---
 
-### click on "create repo"
+click on "create repo"
 
 ![](/assets/Screenshot 2018-01-04 15.28.55.jpg)
 
