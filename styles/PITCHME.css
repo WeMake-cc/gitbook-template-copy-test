@@ -4,15 +4,16 @@
   width: 200px;
 }
 
-.img {
+.imgee {
   border: 0;
   box-shadow: none;
-  width: 10px;
+  width: 100px;
 }
 
 #verysmall {
   border: 0;
   box-shadow: none;
-  width: 1px;
+  width: 10px;
+
 
 /* ![pic][logo]{.classname} */
