@@ -1,19 +1,13 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
-  width: 5%;
+  max-width: 5%;
 }
 
 .pa {
   border: 10;
   box-shadow: none;
   width: 100px;
-}
-
-#verysmall {
-  border: 0;
-  box-shadow: none;
-  width: 10px;
 }
 
 /* ![pic][logo]{.classname} */
