@@ -3,21 +3,24 @@ Hello
 
 ---
 
-<img src="/assets/Screenshot 2018-01-04 15.23.26.jpg" alt="Drawing" style="width: 200px;"/>
+<!-- <img src="" alt="Drawing" style="width: 200px;" class="roar"/> -->
 
 download the template
+
+![](/assets/Screenshot 2018-01-04 15.23.26.jpg)
 
 ---
 
 unzip it
 
-![](/assets/Screenshot 2018-01-04 15.25.57.jpg)
+<img src="/assets/Screenshot 2018-01-04 15.25.57.jpg" alt="Drawing" style="width: 200px;" class="roar"/>
 
-![](/assets/Screenshot 2018-01-04 15.26.30.jpg)
+<img src="/assets/Screenshot 2018-01-04 15.26.30.jpg" alt="Drawing" style="width: 200px;" class="roar"/>
+
 
 ---
 
-# move to your git folder
+move to your git folder
 
 ![](/assets/Screenshot 2018-01-04 15.27.59.jpg)
 

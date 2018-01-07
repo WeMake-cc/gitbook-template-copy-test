@@ -4,3 +4,10 @@
   max-height: 500px;
   margin: 0px 0px;
 }
+
+.roar {
+  border: 10;
+  box-shadow: none;
+  max-height: 50px;
+  margin: 0px 0px;
+}
