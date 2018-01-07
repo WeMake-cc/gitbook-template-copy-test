@@ -45,8 +45,11 @@ click on "create repo"
 
 ![](/assets/Screenshot 2018-01-04 15.28.55.jpg)
 
-![](/assets/Screenshot 2018-01-04 15.29.21.jpg)
+---
 
+click on "create repo"
+
+![](/assets/Screenshot 2018-01-04 15.29.21.jpg)
 
 ---
 
@@ -54,8 +57,11 @@ click on publish your repo
 
 ![](/assets/Screenshot 2018-01-04 15.29.41.jpg)
 
-![](/assets/Screenshot 2018-01-04 15.29.58.jpg)
+---
 
+click on publish your repo
+
+![](/assets/Screenshot 2018-01-04 15.29.58.jpg)
 
 ---
 
@@ -63,13 +69,11 @@ your repo is now published
 
 ![](/assets/Screenshot 2018-01-04 15.33.02.jpg)
 
-
 ---
 
 open the gitbook editor
 
 ![](/assets/Screenshot 2018-01-04 15.32.25.jpg)
-
 
 ---
 
