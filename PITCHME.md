@@ -17,20 +17,20 @@ unzip it
 
 ---
 
-move to your git folder
+# move to your git folder
 
 ![](/assets/Screenshot 2018-01-04 15.27.59.jpg)
 
 ---
 
 
-open github client and add local repo
+## open github client and add local repo
 
 ![](/assets/Screenshot 2018-01-04 15.28.34.jpg)
 
 ---
 
- click on "create repo"
+### click on "create repo"
 
 ![](/assets/Screenshot 2018-01-04 15.28.55.jpg)
 
@@ -39,7 +39,7 @@ open github client and add local repo
 
 ---
 
- click on publish your repo
+click on publish your repo
 
 ![](/assets/Screenshot 2018-01-04 15.29.41.jpg)
 
@@ -48,7 +48,7 @@ open github client and add local repo
 
 ---
 
- your repo is now published
+#### your repo is now published
 
 ![](/assets/Screenshot 2018-01-04 15.33.02.jpg)
 
