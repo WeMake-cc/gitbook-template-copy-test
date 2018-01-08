@@ -83,27 +83,33 @@ this is inline `code` instead
 ---
 
 info blockquote
-> **[info] For info**
+
+> **\[info\] For info**
 >
 > Use this for infomation messages.
 
-
 warning blockquote
-> **[warning] For warning**
+
+> **\[warning\] For warning**
 >
 > Use this for warning messages.
 
-
 danger blockquote
-> **[danger] For danger**
+
+> **\[danger\] For danger**
 >
 > Use this for danger messages.
 
-
 success blockquote
-> **[success] For info**
+
+> **\[success\] For info**
 >
 > Use this for success messages.
+
+
+
+test sync from gitbook editor \(ALE\)
+
 
 
 [^1]: this is a plain footnote
