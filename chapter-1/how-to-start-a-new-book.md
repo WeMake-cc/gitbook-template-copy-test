@@ -1,9 +1,25 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-# test
+- [download the template](#download-the-template)
+- [unzip it](#unzip-it)
+- [move to your git folder](#move-to-your-git-folder)
+- [open github client and add local repo](#open-github-client-and-add-local-repo)
+- [click on create repo](#click-on-create-repo)
+- [click on publish your repo](#click-on-publish-your-repo)
+- [your repo is now published](#your-repo-is-now-published)
+- [open the gitbook editor](#open-the-gitbook-editor)
+- [in the menu select import](#in-the-menu-select-import)
+- [now you can edit the book using the editor](#now-you-can-edit-the-book-using-the-editor)
+- [if you want to upload it on gitbook go to gitbook.com and click on +New](#if-you-want-to-upload-it-on-gitbook-go-to-gitbookcom-and-click-on-new)
+- [select Github from the Lists](#select-github-from-the-lists)
+- [Select your repo](#select-your-repo)
+- [now your book is published on gitbook](#now-your-book-is-published-on-gitbook)
 
-![](/assets/Screenshot-2018-01-04-15.23.26.jpg)
+<!-- /TOC -->
+
 
 ---
+
 
 # download the template
 
