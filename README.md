@@ -19,4 +19,11 @@
 
 
 {{ summary.parts }}
+
+{% set softwareVersion = "1.0.0" %}
+
+Current version is {{ softwareVersion }}.
+[Download it](website.com/download/{{ softwareVersion }})
+
+
 ---
