@@ -2,7 +2,7 @@
     "plugins": [
         "alerts",
         "anchorjs"
-        "gitbook-plugin-layout-tags@git+https://github.com/WeMakecc/gitbook-plugin-test.git#0.0.2"
+        "gitbook-plugin-layout-tags@git+https://github.com/WeMakecc/gitbook-plugin-test.git#0.0.3"
     ],
     "pluginsConfig": {
         "anchorjs": {

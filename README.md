@@ -26,4 +26,8 @@ Current version is {{ softwareVersion }}.
 [Download it](website.com/download/{{ softwareVersion }})
 
 
+{% image "test image", "200px", "left", "margin-right:10px" %}
+../assets/rodrigomuller-acdc.jpg
+{% endimage %}
+
 ---
