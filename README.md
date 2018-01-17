@@ -17,4 +17,6 @@
 
 <3
 
+
+{{ summary.parts }}
 ---
