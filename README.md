@@ -17,17 +17,4 @@
 
 <3
 
-
-{{ summary.parts }}
-
-{% set softwareVersion = "1.0.0" %}
-
-Current version is {{ softwareVersion }}.
-[Download it](website.com/download/{{ softwareVersion }})
-
-
-{% image "test image", "200px", "left", "margin-right:10px" %}
-../assets/rodrigomuller-acdc.jpg
-{% endimage %}
-
 ---
