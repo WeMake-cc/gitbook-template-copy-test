@@ -1,3 +1,12 @@
+.reveal {
+  font-family: Montserrat;
+  src: url(../../assets/fonts/Montserrat-Regular.ttf);
+  font-size: 42px;
+  font-weight: normal;
+  font-style: normal;
+  font-weight: normal;
+  color: #222; }
+
 .reveal section img {
   border: 0;
   box-shadow: none;
