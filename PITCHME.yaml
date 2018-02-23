@@ -4,6 +4,6 @@
 
 # background-size : cover
 
-logo : assets/rodrigomuller-acdc.jpg
+# logo : assets/rodrigomuller-acdc.jpg
 
 theme-override : styles/PITCHME.css

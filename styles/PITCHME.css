@@ -1,3 +1,23 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  max-height: 500px;
+  margin: 0px 0px;
+}
+
+.roar {
+  border: 10px;
+  box-shadow: none;
+  max-height: 50px;
+  margin: 0px 0px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: rgb(255, 0, 125);
+}
+
+
+
 /********************/
 /**** FONT STUFF ****/
 /********************/
@@ -93,23 +113,6 @@ font-size: 16px;
 
 ------------
 
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-  max-height: 500px;
-  margin: 0px 0px;
-}
-
-.roar {
-  border: 10px;
-  box-shadow: none;
-  max-height: 50px;
-  margin: 0px 0px;
-}
-
-h1, h2, h3, h4, h5 {
-  color: rgb(255, 0, 125);
-}
 
 
 -------------------
