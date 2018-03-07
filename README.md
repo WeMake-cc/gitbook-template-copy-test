@@ -2,7 +2,7 @@
 
 [how to start a new book](/chapter-1/how-to-start-a-new-book.md)
 
-[how to  - slide ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master)
+[how to  - slide ](https://gitpitch.com/WeMake-cc/gitbook-template-copy-test/master)
 
 [PITCHME.yaml](PITCHME.yaml)
 
