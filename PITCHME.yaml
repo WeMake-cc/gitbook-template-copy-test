@@ -6,4 +6,6 @@ theme : white
 
 # logo : assets/rodrigomuller-acdc.jpg
 
+logo : assets/wemake180x180px.jpg
+
 theme-override : styles/PITCHME.css
