@@ -3,15 +3,11 @@
 
 ---
 
-## Industry X.0
-
-l'industria 4.0
+l' industria X.0
 
 per le persone
 
 ---
-
-# Industry X.0
 
 le persone
 
