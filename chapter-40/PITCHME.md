@@ -7,7 +7,9 @@ Costantino Bongiorno
 @costantino
 
 ---
-### WeMake|makerspace fablab
+### WeMake
+
+#makerspace #fablab
 
 #### Opening technologies for smart communities
 
@@ -19,10 +21,6 @@ http://wemake.cc
 - community
 - formazione
 - opensource
-
-#makerspace
-
-#fablab
 
 ---
 
@@ -39,13 +37,14 @@ Si tratta di uno spazio in cui le persone possono accedere alle tecnologie diret
 Facciamo parte del network di fablab internazionale e collaboriamo con istituzioni e imprese locali.
 
 ---
+### Temi:
+
 
 ![](http://wemake.cc/core/uploads/2014/03/makerspace-poster.png)
 
 ---
 
-
-### Quali tecnologie:
+### Tecnologie:
 
 #digital_fabrication #stampa 3d  #laser  #freseCNC #plotter_da_taglio #knitting  #elettronica #robotica
 
@@ -70,8 +69,6 @@ fra le persone
 - Open education
 - 3D printing night
 - Hardware startup night
-
-#opensource
 
 ---
 ### experience
@@ -103,9 +100,9 @@ Facciamo ricerca e sviluppo
 sulle tecnologie di prodotto
 e di produzione
 
-Digital design
-Digital fabrication technology
-Robotics
+- Digital design
+- Digital fabrication technology
+- Robotics
 
 #technology #development
 
