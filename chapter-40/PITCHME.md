@@ -13,28 +13,33 @@ Costantino Bongiorno
 
 http://wemake.cc
 ---
-sperimentiamo e creiamo per poter contribuire al cambiamento
+### sperimentiamo e creiamo per poter contribuire al cambiamento
 
-tecnologie
-community
-formazione
-opensource
+- tecnologie
+- community
+- formazione
+- opensource
 
 #makerspace
+
 #fablab
 ---
 
-Cosa:
+### Cosa:
+
 WeMake è un laboratorio di 300mq attrezzato con strumenti di produzione e prototipazione avanzati, alcuni lo chiamano fablab altri makerspace. Si tratta di uno spazio in cui le persone possono accedere alle tecnologie direttamente, in modo facile e immediato.
 Facciamo parte del network di fablab internazionale e collaboriamo con istituzioni e imprese locali.
 
 ---
 
-Quali tecnologie: #DigitalFabrication #stampa 3d  #laser  #frese CNC #plotter da taglio #knitting  #elettronica #robotica
+### Quali tecnologie:
+
+#DigitalFabrication #stampa 3d  #laser  #frese CNC #plotter da taglio #knitting  #elettronica #robotica
 
 ---
 
-Perché:
+### Perché:
+
 ci interessa l’impatto sociale
 
 ---
@@ -43,13 +48,14 @@ favoriamo gli scambi
 di conoscenza spontanea
 fra le persone
 
-Arduino User Group
-Milano live coding
-Open education
-3D printing night
-Hardware startup night
+- Arduino User Group
+- Milano live coding
+- Open education
+- 3D printing night
+- Hardware startup night
 
 #community
+
 #opensource
 
 ---
@@ -65,6 +71,7 @@ prototype solutions with digital fabrication and tools
 create a bridge between technology, culture and social innovation
 
 #training
+
 #projects
 ---
 # research
@@ -91,11 +98,17 @@ co-designing
 prototyping
 accelerating
 documenting
-2018
-Grippos: parametric platform for 3d printed orthisis
+
+
 
 #2016-17
 #cappsi
+
+---
+
+# Grippos
+
+parametric platform for customized 3d printed orthisis
 
 ---
 # DSI
