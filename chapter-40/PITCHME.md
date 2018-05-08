@@ -4,19 +4,17 @@
 +++
 
 Costantino Bongiorno
+
 @costantino
 
 ---
 
-@ul
-
 ### WeMake makerspace fablab
 
-#### Opening technologies for smart communities
+#### Opening technologies for smart communities |
 
-http://wemake.cc
+http://wemake.cc |
 
-@ulend
 
 ---
 
