@@ -20,9 +20,9 @@ Costantino Bongiorno
 ### sperimentiamo e creiamo per contribuire al cambiamento
 
 - tecnologie
-- community
-- formazione
-- opensource
+- community |
+- formazione |
+- opensource |
 
 ---
 
