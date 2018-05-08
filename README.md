@@ -12,6 +12,8 @@
 
 [demo slide chapter 2 ](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-2)
 
+[cos'è WeMake](https://gitpitch.com/WeMakecc/gitbook-template-copy-test/master?p=chapter-40)
+
 [testpage](/test-page.md)
 
 

@@ -19,7 +19,7 @@ Costantino Bongiorno
 
 ### sperimentiamo e creiamo per contribuire al cambiamento
 
-- tecnologie
+- tecnologie |
 - community |
 - formazione |
 - opensource |
@@ -42,14 +42,20 @@ Facciamo parte del network di fablab internazionale e collaboriamo con istituzio
 
 ### Temi
 
-
 ![](http://wemake.cc/core/uploads/2014/03/makerspace-poster.png)
 
 ---
 
 ### Tecnologie
 
- #digital_fabrication #stampa 3d  #laser  #freseCNC #plotter_da_taglio #knitting  #elettronica #robotica
+ - #digital_fabrication
+ - #stampa 3d  -
+ - #laser  
+ - #freseCNC
+ - #plotter_da_taglio
+ - #knitting
+ - #elettronica
+ - #robotica
 
 ---
 
@@ -97,9 +103,7 @@ create a bridge between technology, culture and social innovation
 
 ### research
 
-Facciamo ricerca e sviluppo
-sulle tecnologie di prodotto
-e di produzione
+Facciamo ricerca e sviluppo sulle tecnologie di prodotto e di produzione
 
 - Digital design
 - Digital fabrication technology
