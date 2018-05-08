@@ -7,14 +7,19 @@ Costantino Bongiorno
 @costantino
 
 ---
-### WeMake
 
-#makerspace #fablab
+@ul
+
+### WeMake makerspace fablab
 
 #### Opening technologies for smart communities
 
 http://wemake.cc
+
+@ulend
+
 ---
+
 ### sperimentiamo e creiamo per poter contribuire al cambiamento
 
 - tecnologie
@@ -37,20 +42,21 @@ Si tratta di uno spazio in cui le persone possono accedere alle tecnologie diret
 Facciamo parte del network di fablab internazionale e collaboriamo con istituzioni e imprese locali.
 
 ---
-### Temi:
+
+### Temi
 
 
 ![](http://wemake.cc/core/uploads/2014/03/makerspace-poster.png)
 
 ---
 
-### Tecnologie:
+### Tecnologie
 
-#digital_fabrication #stampa 3d  #laser  #freseCNC #plotter_da_taglio #knitting  #elettronica #robotica
+ #digital_fabrication #stampa 3d  #laser  #freseCNC #plotter_da_taglio #knitting  #elettronica #robotica
 
 ---
 
-### Perché:
+### Perché
 
 ci interessa l’impatto sociale
 
@@ -58,9 +64,7 @@ ci interessa l’impatto sociale
 
 ### community
 
-favoriamo gli scambi
-di conoscenza spontanea
-fra le persone
+favoriamo gli scambi di conoscenza spontanea fra le persone
 
 +++
 
@@ -104,14 +108,14 @@ e di produzione
 - Digital fabrication technology
 - Robotics
 
-#technology #development
+ #technology #development
 
 ---
 # opencare
 
 addressing the challenges of community-driven care
 
-#2016-17 #cappsi
+ #2016-17 #cappsi
 
 - listening
 - learning
@@ -119,8 +123,6 @@ addressing the challenges of community-driven care
 - prototyping
 - accelerating
 - documenting
-
-
 
 ---
 
@@ -133,7 +135,7 @@ parametric platform for customized 3d printed orthisis
 
 ### Digital Social Innovation
 
-#2018-19 #cappsi
+ #2018-19 #cappsi
 
 - cluster on Health & Care
 - Activities include the mapping and fostering the DSI community at a local level (Milan and Italy) through a series of online and offline events.
