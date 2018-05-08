@@ -11,14 +11,14 @@ Costantino Bongiorno
 
 ### WeMake makerspace fablab
 
-<class="fragment"> #### Opening technologies for smart communities </>
+<p class="fragment"> #### Opening technologies for smart communities </p>
 
 http://wemake.cc
 
 
 ---
 
-### sperimentiamo e creiamo per poter contribuire al cambiamento
+### sperimentiamo e creiamo per contribuire al cambiamento
 
 - tecnologie
 - community
@@ -75,7 +75,7 @@ favoriamo gli scambi di conoscenza spontanea fra le persone
 ---
 ### experience
 
-#training #projects
+ #training #projects
 
 +++
 
