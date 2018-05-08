@@ -9,3 +9,5 @@ theme : white
 logo : assets/wemake_logo_bk.png
 
 theme-override : styles/PITCHME.css
+
+transition : fade

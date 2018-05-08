@@ -105,14 +105,13 @@ create a bridge between technology, culture and social innovation
 
 Facciamo ricerca e sviluppo sulle tecnologie di prodotto e di produzione
 
+ #technology #development
+
 - Digital design
 - Digital fabrication technology
 - Robotics
-
- #technology #development
-
 ---
-# opencare
+### opencare
 
 addressing the challenges of community-driven care
 
@@ -127,16 +126,16 @@ addressing the challenges of community-driven care
 
 ---
 
-# Grippos
+### Grippos
 
 parametric platform for customized 3d printed orthisis
 
 ---
-# DSI
+### DSI
 
-### Digital Social Innovation
+#### Digital Social Innovation
 
  #2018-19 #cappsi
 
 - cluster on Health & Care
-- Activities include the mapping and fostering the DSI community at a local level (Milan and Italy) through a series of online and offline events.
+- mapping and fostering the DSI community at a local level (Milan and Italy) through a series of online and offline events.
