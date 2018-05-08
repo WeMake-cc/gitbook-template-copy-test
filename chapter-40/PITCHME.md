@@ -11,10 +11,9 @@ Costantino Bongiorno
 
 ### WeMake makerspace fablab
 
-<p class="fragment"> #### Opening technologies for smart communities </p>
+<p class="fragment">Opening technologies for smart communities</p>
 
-http://wemake.cc
-
+<p class="fragment">http://wemake.cc</p>
 
 ---
 
