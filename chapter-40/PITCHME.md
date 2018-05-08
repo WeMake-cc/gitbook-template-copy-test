@@ -48,14 +48,14 @@ Facciamo parte del network di fablab internazionale e collaboriamo con istituzio
 
 ### Tecnologie
 
- - #digital_fabrication
- - #stampa 3d  -
- - #laser  
- - #freseCNC
- - #plotter_da_taglio
- - #knitting
- - #elettronica
- - #robotica
+ - digital_fabrication
+ - stampa 3d
+ - laser  
+ - freseCNC
+ - plotter_da_taglio
+ - knitting
+ - elettronica
+ - robotica
 
 ---
 
