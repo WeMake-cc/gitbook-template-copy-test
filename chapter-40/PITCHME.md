@@ -7,11 +7,104 @@ Costantino Bongiorno
 @costantino
 
 ---
-# WeMake | makerspace fablab
+### WeMake|makerspace fablab
 
-Opening technologies for smart
-communities
-makerspace
+#### Opening technologies for smart communities
 
 http://wemake.cc
 ---
+sperimentiamo e creiamo per poter contribuire al cambiamento
+
+tecnologie
+community
+formazione
+opensource
+
+#makerspace
+#fablab
+---
+
+Cosa:
+WeMake è un laboratorio di 300mq attrezzato con strumenti di produzione e prototipazione avanzati, alcuni lo chiamano fablab altri makerspace. Si tratta di uno spazio in cui le persone possono accedere alle tecnologie direttamente, in modo facile e immediato.
+Facciamo parte del network di fablab internazionale e collaboriamo con istituzioni e imprese locali.
+
+---
+
+Quali tecnologie: #DigitalFabrication #stampa 3d  #laser  #frese CNC #plotter da taglio #knitting  #elettronica #robotica
+
+---
+
+Perché:
+ci interessa l’impatto sociale
+
+---
+
+favoriamo gli scambi
+di conoscenza spontanea
+fra le persone
+
+Arduino User Group
+Milano live coding
+Open education
+3D printing night
+Hardware startup night
+
+#community
+#opensource
+
+---
+# experience
+
+workshops and community building since 2011
+
+collaborate with institutions to co-design training paths
+and agile policymaking
+
+prototype solutions with digital fabrication and tools
+
+create a bridge between technology, culture and social innovation
+
+#training
+#projects
+---
+# research
+
+Facciamo ricerca e sviluppo
+sulle tecnologie di prodotto
+e di produzione
+
+Digital design
+Digital fabrication technology
+Robotics
+
+#technology
+#development
+
+---
+# opencare
+
+addressing the challenges of community-driven care
+
+listening
+learning
+co-designing
+prototyping
+accelerating
+documenting
+2018
+Grippos: parametric platform for 3d printed orthisis
+
+#2016-17
+#cappsi
+
+---
+# DSI
+
+### Digital Social Innovation
+
+cluster on Health & Care
+
+Activities include the mapping and fostering the DSI community at a local level (Milan and Italy) through a series of online and offline events.
+
+#2018-19
+#cappsi
